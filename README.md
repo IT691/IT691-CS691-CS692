@@ -25,7 +25,7 @@ Projects can involve e-Commerce and Internet technologies, blockchain, client-se
   9. Quantum Security for Classical Computers
        - How to use classical methods to prepare and interpret a problem to be solved by quantum computing.
 
-# Header 1
+
 ## Header 2
 ### Header 3
 
