@@ -28,7 +28,23 @@ Projects can involve e-Commerce and Internet technologies, blockchain, client-se
        - Examine whether brain signals (EEG) correlates of different work influence might affect individual distinctiveness on          biometrics.
 
 ### Deliverables
-
+1. Project Quarter 1: Technical Paper Draft 1
+- Draft 1 must be in the proper paper format.
+It must include an appropriate title, an abstract, an introduction, project requirements, and literature review citing appropriate references.
+Note: Having an early delivery of project material is not new. Professor Frederick P. Brooks, University of North Carolina, has long advocated this approach, see for example Keynote Address, EDSIG 2015 where he recommends an early delivery of the complete project followed by strong criticism and a "do it over!", as well as the delivery of a programming manual after one month. Roger Pressman in his 2014 book Software Engineering: A Practitioner's Approach also advocates early delivery.
+Project Quarter 2: Technical Paper Draft 2 and Midterm Project PowerPoint Presentation
+Draft 2 must include a list of key terms, essentially finalized literature review, a methodology, and preliminary findings/results.
+If a system is being developed, the system should be essentially complete (80-20 rule).
+If experiments are being performed, preliminary results should be presented and discussed.
+The PowerPoint presentation should summarize the content of the paper.
+Project Quarter 3: Technical Paper Draft 3
+Draft 3 must contain all sections and be essentially complete except for final updates.
+If a system is being developed, the system should be essentially complete except for final updates.
+If experiments are being performed, essentially completed results should be presented and discussed.
+Project Quarter 4: Final Technical Paper and Final Project PowerPoint Presentation
+The final technical paper must be in final form for the conference proceedings.
+The PowerPoint presentation should summarize the content of the paper.
+Project System User Manual - required if a system was developed and the technical paper did not contain full instructions
 
 
 
