@@ -8,19 +8,21 @@ This project-oriented course uses student teams to develop real-world Computer I
 
 Projects can involve e-Commerce and Internet technologies, blockchain, client-server systems, mobile apps, machine learning, artificial intelligence, the Internet Of Things, Web interfaces to backend databases, relational databases, web design and interfaces, HTML, Java programming, scripting languages such as PHP for accessing databases through web interfaces. Project ideas include:
   1. Expressway Exit Optimal Traffic Signnals
-       - Determine optimal signaling arrangement at full intersection
+       - Determine an optimal signaling arrangement for the full intersection during rush hour
   2. Environmental Sensing Using Blockchain
   3. Doctor In The House
        - Crowd sourcing public fafety and emergency medical treatment app when such services may not
-         be able to quickly respond.
+         be able to quickly respond
   4. Extended Comparative Market Analysis
   5. Identifying the Optimal Communication Technology for Environmental Monitoring
-       - The student team will thoroughly look into networking for IoT devices/protocols. Compare and contrast the most useful          and practical ones for Environmental Science monitoring. 
+       - The student team will thoroughly look into networking for IoT devices/protocols. Compare and contrast the most useful          and practical ones for Environmental Science monitoring
   6. Testing the Accuracy of Mortgage Risk Models
-       - Compare and contrast new designs to existing tools, and display the results, showing the proof. It can use                    dynamic data, queries built from AI, it can display on a webpage, it can display beautiful visuals, graphs. This tool          will save valuable time and prevent the opportunity cost of not adopting a new tool that can give better information          for financial decisions because of not being sure of the newer idea.
-  
-
-
+       - Compare and contrast new designs to existing tools, and display the results, showing the proof. It can use                    dynamic data, queries built from AI, it can display on a webpage, it can display beautiful visuals, graphs. This tool          will save valuable time and prevent the opportunity cost of not adopting a new tool that can give better information          for financial decisions because of not being sure of the newer idea
+  7. Post-Quantum Security in Blockchain
+       - How to use an API to a Quantum Computer with your computer program (written in Python)
+  8. Infrared Android API for Application Developers
+       - Design a low level Android API (i.e. Java API) to control the IR source, so that an Android developer can use the API          to create an application that will allow an Android to be used as a general IR remote controller.
+  9. Quantum Security for Classical Computers
 
 # Header 1
 ## Header 2
