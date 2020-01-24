@@ -15,6 +15,8 @@ Projects can involve e-Commerce and Internet technologies, blockchain, client-se
   4. Extended Comparative Market Analysis
   5. Identifying the Optimal Communication Technology for Environmental Monitoring
        - The student team will thoroughly look into networking for IoT devices/protocols. Compare and                contrast the most useful and practical ones for Environmental Science monitoring. 
+  6. Testing the Accuracy of Mortgage Risk Models
+       - Compare and contrast new designs to existing tools, and display the results, showing the proof. It          can use dynamic data, queries built from AI, it can display on a webpage, it can display beautiful          visuals, graphs. This tool will save valuable time and prevent the opportunity cost of not                  adopting a new tool that can give better information for financial decisions because of not being          sure of the newer idea.
   
 
 
