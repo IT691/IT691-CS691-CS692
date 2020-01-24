@@ -27,18 +27,11 @@ Projects can involve e-Commerce and Internet technologies, blockchain, client-se
   10. Cognitive Biometrics
        - Examine whether brain signals (EEG) correlates of different work influence might affect individual distinctiveness on          biometrics.
 
-## Deliverables
+### Deliverables
 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 
