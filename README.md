@@ -24,10 +24,11 @@ Projects can involve e-Commerce and Internet technologies, blockchain, client-se
        - Design a low level Android API (i.e. Java API) to control the IR source, so that an Android developer can use the API          to create an application that will allow an Android to be used as a general IR remote controller.
   9. Quantum Security for Classical Computers
        - How to use classical methods to prepare and interpret a problem to be solved by quantum computing.
+  10. Cognitive Biometrics
+       - Examine whether brain signals (EEG) correlates of different work influence might affect individual distinctiveness on          biometrics.
 
+## Deliverables
 
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -40,12 +41,4 @@ Projects can involve e-Commerce and Internet technologies, blockchain, client-se
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IT691/IT691/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
