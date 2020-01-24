@@ -23,6 +23,7 @@ Projects can involve e-Commerce and Internet technologies, blockchain, client-se
   8. Infrared Android API for Application Developers
        - Design a low level Android API (i.e. Java API) to control the IR source, so that an Android developer can use the API          to create an application that will allow an Android to be used as a general IR remote controller.
   9. Quantum Security for Classical Computers
+       - How to use classical methods to prepare and interpret a problem to be solved by quantum computing.
 
 # Header 1
 ## Header 2
