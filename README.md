@@ -15,25 +15,27 @@ Projects can involve e-Commerce and Internet technologies, blockchain, client-se
          be able to quickly respond
   4. Extended Comparative Market Analysis
   5. Identifying the Optimal Communication Technology for Environmental Monitoring
-       - The student team will thoroughly look into networking for IoT devices/protocols. Compare and contrast the most useful          and practical ones for Environmental Science monitoring
+       - The student team will thoroughly look into networking for IoT devices/protocols. Compare and contrast the most useful and practical ones for Environmental Science monitoring
   6. Testing the Accuracy of Mortgage Risk Models
-       - Compare and contrast new designs to existing tools, and display the results, showing the proof. It can use                    dynamic data, queries built from AI, it can display on a webpage, it can display beautiful visuals, graphs. This tool          will save valuable time and prevent the opportunity cost of not adopting a new tool that can give better information          for financial decisions because of not being sure of the newer idea
+       - Compare and contrast new designs to existing tools, and display the results, showing the proof. It can use dynamic data, queries built from AI, it can display on a webpage, it can display beautiful visuals, graphs. This tool will save valuable time and prevent the opportunity cost of not adopting a new tool that can give better information for financial decisions because of not being sure of the newer idea
   7. Post-Quantum Security in Blockchain
        - How to use an API to a Quantum Computer with your computer program (written in Python)
   8. Infrared Android API for Application Developers
-       - Design a low level Android API (i.e. Java API) to control the IR source, so that an Android developer can use the API          to create an application that will allow an Android to be used as a general IR remote controller.
+       - Design a low level Android API (i.e. Java API) to control the IR source, so that an Android developer can use the API to create an application that will allow an Android to be used as a general IR remote controller.
   9. Quantum Security for Classical Computers
        - How to use classical methods to prepare and interpret a problem to be solved by quantum computing.
   10. Cognitive Biometrics
-       - Examine whether brain signals (EEG) correlates of different work influence might affect individual distinctiveness on          biometrics.
+       - Examine whether brain signals (EEG) correlates of different work influence might affect individual distinctiveness on biometrics.
 
 ### Deliverables
+0. Technical Paper Draft 0
+   - Draft must have title, authors, and names of institutions in the correct format (IEEE format).
 1. Project Quarter 1: Technical Paper Draft 1
    - Draft 1 must be in the proper paper format.
-   - It must include an appropriate title, an abstract, an introduction, project requirements, and literature review citing        appropriate references.
-   - **Note**: Having an early delivery of project material is not new. Professor Frederick P. Brooks, University of North              Carolina, has long advocated this approach, see for example Keynote Address, EDSIG 2015 where he recommends an early          delivery of the complete project followed by strong criticism and a "do it over!", as well as the delivery of a                programming manual after one month. Roger Pressman in his 2014 book Software Engineering: A Practitioner's Approach            also advocates early delivery.
+   - It must include an appropriate title, an abstract, an introduction, project requirements, and literature review citing appropriate references.
+   - **Note**: Having an early delivery of project material is not new. Professor Frederick P. Brooks, University of North Carolina, has long advocated this approach, see for example Keynote Address, EDSIG 2015 where he recommends an early delivery of the complete project followed by strong criticism and a "do it over!", as well as the delivery of a programming manual after one month. Roger Pressman in his 2014 book Software Engineering: A Practitioner's Approach also advocates early delivery.
 2. Project Quarter 2: Technical Paper Draft 2 and Midterm Project PowerPoint Presentation
-    - Draft 2 must include a list of key terms, essentially finalized literature review, a methodology, and preliminary             findings/results.
+    - Draft 2 must include a list of key terms, essentially finalized literature review, a methodology, and preliminary findings/results.
     - If a system is being developed, the system should be essentially complete (80-20 rule).
     - If experiments are being performed, preliminary results should be presented and discussed.
     - The PowerPoint presentation should summarize the content of the paper.
@@ -44,7 +46,7 @@ Projects can involve e-Commerce and Internet technologies, blockchain, client-se
 4. Project Quarter 4: Final Technical Paper and Final Project PowerPoint Presentation
     - The final technical paper must be in final form for the conference proceedings.
     - The PowerPoint presentation should summarize the content of the paper.
-    - Project System User Manual - required if a system was developed and the technical paper did not contain full                   instructions
+    - Project System User Manual - required if a system was developed and the technical paper did not contain full instructions
 
 
 
